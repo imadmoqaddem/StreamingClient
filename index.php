@@ -1,6 +1,6 @@
 <?php
 
-$url = 'http://www.purevid.com/v/992RTX538yz2PKP9EEQWTz716273';
+$url = 'http://www.purevid.com/v/' . $_GET['id'];
 $id_ = explode('/', $url);
 $id = $id_[count($id_) - 1];
 $id = empty($id) ? $id_[count($id_) - 2] : $id;
