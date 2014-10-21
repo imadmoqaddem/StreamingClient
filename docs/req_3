@@ -1,0 +1,30 @@
+Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding:gzip,deflate
+Accept-Language:fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4,it;q=0.2,pt;q=0.2
+Cache-Control:max-age=0
+Connection:keep-alive
+Content-Length:872
+Content-Type:application/x-www-form-urlencoded
+Cookie:__cfduid=db900c2a0d91cac229a2c17f898b905921413771866853; PHPSESSID=v4bttgjkqjf49tpec8p95cd2k1; enstreaming=vartest; __asc=28efe27d1492b5fe32f87c69b2c; __auc=28efe27d1492b5fe32f87c69b2c; __utma=175113462.1879762917.1413771943.1413771943.1413771943.1; __utmb=175113462.5.10.1413771943; __utmc=175113462; __utmz=175113462.1413771943.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __atuvc=1%7C43
+Host:enstreaming.com
+Origin:http://enstreaming.com
+Referer:http://enstreaming.com/film-992RTX538yz2PKP9EEQWTz716273.html?yes
+User-Agent:Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36
+Query String Parametersview sourceview URL encoded
+yes:
+Form Dataview sourceview URL encoded
+id:{"clip":{"titleHeader":"Ar-S1E01-Vostfr","autoPlay":true,"downloadUrl":"http:\/\/www.purevid.com\/?m=download&id=992RTX538yz2PKP9EEQWTz716273","websiteLink":"http:\/\/www.purevid.com\/v\/992RTX538yz2PKP9EEQWTz716273\/","scaling":"fit","autoBuffering":true,"bufferLength":1,"bitrates":[{"url":"http:\/\/str9.purevid.com\/get\/c5e9c8f8bffb4335c3f31a8c644f7f34\/5444747c\/raid1\/videos\/0\/13\/1358400\/1358400.flv","bitrate":"360","title":"360p","premium":false,"isSd":true}],"linkUrl":"http:\/\/www.purevid.com\/v\/992RTX538yz2PKP9EEQWTz716273\/","linkWindow":"_blank","embed":"
+Response Headersview source
+Cache-Control:no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+CF-RAY:17c1db9a8ed1078b-EWR
+Connection:keep-alive
+Content-Encoding:gzip
+Content-Type:text/html
+Date:Mon, 20 Oct 2014 02:41:43 GMT
+Expires:Thu, 19 Nov 1981 08:52:00 GMT
+Pragma:no-cache
+Server:cloudflare-nginx
+Set-Cookie:enstreaming=vartest; expires=Mon, 20-Oct-2014 03:41:43 GMT
+Transfer-Encoding:chunked
+Vary:Accept-Encoding
+X-Powered-By:PHP/5.4.4-14+deb7u8
